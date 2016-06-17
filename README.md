@@ -8,3 +8,5 @@ Passos:
  - Treinamento. Arquivo "treinamento.csv" (diretório data no projeto); 
  - Reconhecimento dos parâmetros: expectativa de vida, peso, altura e inteligência; 
  - Resultado de reconhecimento da raça do animal com porcentagem de precisão;
+
+![alt tag](https://raw.githubusercontent.com/patricksw/RedeNeural/master/software.jpg)
