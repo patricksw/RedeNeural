@@ -3,7 +3,7 @@ Inteligência Artificial - Algoritmo Redes Neurais (ASP.NET C#)
 
 Projeto: rede neural aplicada para descobrir raças caninas. Projeto desenvolvido com o objetivo de conhecimento sobre redes neurais. Foi desenvolvido em linguagem C-Sharp, possui uma interface Web amigável.
 
-No funcionamento do software, foi incluido uma biblioteca para redes neurais. Esta biblioteca identifica os neuronios do treinamento e classifica os itens aplicando um peso e uma função para cada um. Disponível em: http://www.codeproject.com/Articles/16447/Neural-Networks-on-C
+No funcionamento do software, foi incluido uma biblioteca (C-Sharp) para redes neurais. Esta biblioteca identifica os neurônios do treinamento e classifica os itens aplicando um peso e uma função para cada um. Disponível em: http://www.codeproject.com/Articles/16447/Neural-Networks-on-C
 
 Passos: 
 
