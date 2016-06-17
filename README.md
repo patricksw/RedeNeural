@@ -7,4 +7,4 @@ Passos:
 
  - Treinamento. Arquivo "treinamento.csv" (diretório data no projeto); 
  - Reconhecimento dos parâmetros: expectativa de vida, peso, altura e inteligência; 
- - Tentativa de reconhecimento da raça do animal com porcentagem de precisão;
+ - Resultado de reconhecimento da raça do animal com porcentagem de precisão;
