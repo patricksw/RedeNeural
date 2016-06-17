@@ -1,0 +1,244 @@
+vida,altura,peso,inteligencia,raca,cod. raca
+12,26,4,5,pintcher,1
+12,26,5,5,pintcher,1
+12,26,6,5,pintcher,1
+12,27,4,5,pintcher,1
+12,27,5,5,pintcher,1
+12,27,6,5,pintcher,1
+12,28,4,5,pintcher,1
+12,28,5,5,pintcher,1
+12,28,6,5,pintcher,1
+13,26,4,5,pintcher,1
+13,26,5,5,pintcher,1
+13,26,6,5,pintcher,1
+13,27,4,5,pintcher,1
+13,27,5,5,pintcher,1
+13,27,6,5,pintcher,1
+13,28,4,5,pintcher,1
+13,28,5,5,pintcher,1
+13,28,6,5,pintcher,1
+14,26,4,5,pintcher,1
+14,26,5,5,pintcher,1
+14,26,6,5,pintcher,1
+14,27,4,5,pintcher,1
+14,27,5,5,pintcher,1
+14,27,6,5,pintcher,1
+14,28,4,5,pintcher,1
+14,28,5,5,pintcher,1
+14,28,6,5,pintcher,1
+13,35,18,4,beagle,2
+13,35,26,4,beagle,2
+13,35,34,4,beagle,2
+13,36,18,4,beagle,2
+13,36,26,4,beagle,2
+13,36,34,4,beagle,2
+13,37,18,4,beagle,2
+13,37,26,4,beagle,2
+13,37,34,4,beagle,2
+14,35,18,4,beagle,2
+14,35,26,4,beagle,2
+14,35,34,4,beagle,2
+14,36,18,4,beagle,2
+14,36,26,4,beagle,2
+14,36,34,4,beagle,2
+14,37,18,4,beagle,2
+14,37,26,4,beagle,2
+14,37,34,4,beagle,2
+15,35,18,4,beagle,2
+15,35,26,4,beagle,2
+15,35,34,4,beagle,2
+15,36,18,4,beagle,2
+15,36,26,4,beagle,2
+15,36,34,4,beagle,2
+15,37,18,4,beagle,2
+15,37,26,4,beagle,2
+15,37,34,4,beagle,2
+13,20,2,5,york shire,3
+13,20,3,5,york shire,3
+13,20,4,5,york shire,3
+13,21,2,5,york shire,3
+13,21,3,5,york shire,3
+13,21,4,5,york shire,3
+13,22,2,5,york shire,3
+13,22,3,5,york shire,3
+13,22,4,5,york shire,3
+14,20,2,5,york shire,3
+14,20,3,5,york shire,3
+14,20,4,5,york shire,3
+14,21,2,5,york shire,3
+14,21,3,5,york shire,3
+14,21,4,5,york shire,3
+14,22,2,5,york shire,3
+14,22,3,5,york shire,3
+14,22,4,5,york shire,3
+15,20,2,5,york shire,3
+15,20,3,5,york shire,3
+15,20,4,5,york shire,3
+15,21,2,5,york shire,3
+15,21,3,5,york shire,3
+15,21,4,5,york shire,3
+15,22,2,5,york shire,3
+15,22,3,5,york shire,3
+15,22,4,5,york shire,3
+12,53,25,4,Bull Terrier,4
+12,53,30,4,Bull Terrier,4
+12,53,35,4,Bull Terrier,4
+12,54,25,4,Bull Terrier,4
+12,54,30,4,Bull Terrier,4
+12,54,35,4,Bull Terrier,4
+12,55,25,4,Bull Terrier,4
+12,55,30,4,Bull Terrier,4
+12,55,35,4,Bull Terrier,4
+13,53,25,4,Bull Terrier,4
+13,53,30,4,Bull Terrier,4
+13,53,35,4,Bull Terrier,4
+13,54,25,4,Bull Terrier,4
+13,54,30,4,Bull Terrier,4
+13,54,35,4,Bull Terrier,4
+13,55,25,4,Bull Terrier,4
+13,55,30,4,Bull Terrier,4
+13,55,35,4,Bull Terrier,4
+14,53,25,4,Bull Terrier,4
+14,53,30,4,Bull Terrier,4
+14,53,35,4,Bull Terrier,4
+14,54,25,4,Bull Terrier,4
+14,54,30,4,Bull Terrier,4
+14,54,35,4,Bull Terrier,4
+14,55,25,4,Bull Terrier,4
+14,55,30,4,Bull Terrier,4
+14,55,35,4,Bull Terrier,4
+12,47,21,1,Chow Chow,5
+12,47,23,1,Chow Chow,5
+12,47,25,1,Chow Chow,5
+12,50,21,1,Chow Chow,5
+12,50,23,1,Chow Chow,5
+12,50,25,1,Chow Chow,5
+12,53,21,1,Chow Chow,5
+12,53,23,1,Chow Chow,5
+12,53,25,1,Chow Chow,5
+13,47,21,1,Chow Chow,5
+13,47,23,1,Chow Chow,5
+13,47,25,1,Chow Chow,5
+13,50,21,1,Chow Chow,5
+13,50,23,1,Chow Chow,5
+13,50,25,1,Chow Chow,5
+13,53,21,1,Chow Chow,5
+13,53,23,1,Chow Chow,5
+13,53,25,1,Chow Chow,5
+14,47,21,1,Chow Chow,5
+14,47,23,1,Chow Chow,5
+14,47,25,1,Chow Chow,5
+14,50,21,1,Chow Chow,5
+14,50,23,1,Chow Chow,5
+14,50,25,1,Chow Chow,5
+14,53,21,1,Chow Chow,5
+14,53,23,1,Chow Chow,5
+14,53,25,1,Chow Chow,5
+11,70,31,3,Greyhound,6
+11,70,33,3,Greyhound,6
+11,70,35,3,Greyhound,6
+11,72,31,3,Greyhound,6
+11,72,33,3,Greyhound,6
+11,72,35,3,Greyhound,6
+11,74,31,3,Greyhound,6
+11,74,33,3,Greyhound,6
+11,74,35,3,Greyhound,6
+12,70,31,3,Greyhound,6
+12,70,33,3,Greyhound,6
+12,70,35,3,Greyhound,6
+12,72,31,3,Greyhound,6
+12,72,33,3,Greyhound,6
+12,72,35,3,Greyhound,6
+12,74,31,3,Greyhound,6
+12,74,33,3,Greyhound,6
+12,74,35,3,Greyhound,6
+13,70,31,3,Greyhound,6
+13,70,33,3,Greyhound,6
+13,70,35,3,Greyhound,6
+13,72,31,3,Greyhound,6
+13,72,33,3,Greyhound,6
+13,72,35,3,Greyhound,6
+13,74,31,3,Greyhound,6
+13,74,33,3,Greyhound,6
+13,74,35,3,Greyhound,6
+11,55,25,5,Dalmata,7
+11,55,28,5,Dalmata,7
+11,55,31,5,Dalmata,7
+11,58,25,5,Dalmata,7
+11,58,28,5,Dalmata,7
+11,58,31,5,Dalmata,7
+11,61,25,5,Dalmata,7
+11,61,28,5,Dalmata,7
+11,61,31,5,Dalmata,7
+12,55,25,5,Dalmata,7
+12,55,28,5,Dalmata,7
+12,55,31,5,Dalmata,7
+12,58,25,5,Dalmata,7
+12,58,28,5,Dalmata,7
+12,58,31,5,Dalmata,7
+12,61,25,5,Dalmata,7
+12,61,28,5,Dalmata,7
+12,61,31,5,Dalmata,7
+13,55,25,5,Dalmata,7
+13,55,28,5,Dalmata,7
+13,55,31,5,Dalmata,7
+13,58,25,5,Dalmata,7
+13,58,28,5,Dalmata,7
+13,58,31,5,Dalmata,7
+13,61,25,5,Dalmata,7
+13,61,28,5,Dalmata,7
+13,61,31,5,Dalmata,7
+11,55,24,5,Labrador,8
+11,55,27,5,Labrador,8
+11,55,30,5,Labrador,8
+11,56,24,5,Labrador,8
+11,56,27,5,Labrador,8
+11,56,30,5,Labrador,8
+11,57,24,5,Labrador,8
+11,57,27,5,Labrador,8
+11,57,30,5,Labrador,8
+12,55,24,5,Labrador,8
+12,55,27,5,Labrador,8
+12,55,30,5,Labrador,8
+12,56,24,5,Labrador,8
+12,56,27,5,Labrador,8
+12,56,30,5,Labrador,8
+12,57,24,5,Labrador,8
+12,57,27,5,Labrador,8
+12,57,30,5,Labrador,8
+13,55,24,5,Labrador,8
+13,55,27,5,Labrador,8
+13,55,30,5,Labrador,8
+13,56,24,5,Labrador,8
+13,56,27,5,Labrador,8
+13,56,30,5,Labrador,8
+13,57,24,5,Labrador,8
+13,57,27,5,Labrador,8
+13,57,30,5,Labrador,8
+12,58,24,5,Pastor Alemão,9
+12,58,31,5,Pastor Alemão,9
+12,58,38,5,Pastor Alemão,9
+12,60,24,5,Pastor Alemão,9
+12,60,31,5,Pastor Alemão,9
+12,60,38,5,Pastor Alemão,9
+12,63,24,5,Pastor Alemão,9
+12,63,31,5,Pastor Alemão,9
+12,63,38,5,Pastor Alemão,9
+13,58,24,5,Pastor Alemão,9
+13,58,31,5,Pastor Alemão,9
+13,58,38,5,Pastor Alemão,9
+13,60,24,5,Pastor Alemão,9
+13,60,31,5,Pastor Alemão,9
+13,60,38,5,Pastor Alemão,9
+13,63,24,5,Pastor Alemão,9
+13,63,31,5,Pastor Alemão,9
+13,63,38,5,Pastor Alemão,9
+14,58,24,5,Pastor Alemão,9
+14,58,31,5,Pastor Alemão,9
+14,58,38,5,Pastor Alemão,9
+14,60,24,5,Pastor Alemão,9
+14,60,31,5,Pastor Alemão,9
+14,60,38,5,Pastor Alemão,9
+14,63,24,5,Pastor Alemão,9
+14,63,31,5,Pastor Alemão,9
+14,63,38,5,Pastor Alemão,9

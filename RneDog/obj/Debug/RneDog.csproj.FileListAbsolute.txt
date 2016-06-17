@@ -1,0 +1,9 @@
+D:\Documentos\Pessoais\OneDrive\college\faccat\Inteligencia Artificial\RedesNeurais\RneDog\RneDog\bin\RneDog.dll.config
+D:\Documentos\Pessoais\OneDrive\college\faccat\Inteligencia Artificial\RedesNeurais\RneDog\RneDog\bin\RneDog.dll
+D:\Documentos\Pessoais\OneDrive\college\faccat\Inteligencia Artificial\RedesNeurais\RneDog\RneDog\bin\RneDog.pdb
+D:\Documentos\Pessoais\OneDrive\college\faccat\Inteligencia Artificial\RedesNeurais\RneDog\RneDog\bin\AForge.Controls.dll
+D:\Documentos\Pessoais\OneDrive\college\faccat\Inteligencia Artificial\RedesNeurais\RneDog\RneDog\bin\AForge.dll
+D:\Documentos\Pessoais\OneDrive\college\faccat\Inteligencia Artificial\RedesNeurais\RneDog\RneDog\bin\AForge.Neuro.dll
+D:\Documentos\Pessoais\OneDrive\college\faccat\Inteligencia Artificial\RedesNeurais\RneDog\RneDog\obj\Debug\RneDog.dll
+D:\Documentos\Pessoais\OneDrive\college\faccat\Inteligencia Artificial\RedesNeurais\RneDog\RneDog\obj\Debug\RneDog.pdb
+D:\Documentos\Pessoais\OneDrive\college\faccat\Inteligencia Artificial\RedesNeurais\RneDog\RneDog\obj\Debug\RneDog.csprojResolveAssemblyReference.cache
